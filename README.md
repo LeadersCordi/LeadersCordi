@@ -1,4 +1,3 @@
-# Taha
 # LeadersCordi Hakkında ❔
 
 Merhaba! Ben **Taha**. Yaklaşık **4 yıldır** aktif olarak yazılım geliştiriyorum. Çoğunlukla **Java** ve **PHP** teknolojileri üzerinde çalışıyor, özellikle **Java** diline ileri seviyede hâkimim. Ayrıca backend sistemleri ve veritabanı yönetimi konularında derinlemesine bilgi sahibiyim.
