@@ -23,7 +23,6 @@ Minecraft sunucuları üzerinde yaptığım geliştirmelerle 4 yıllık süreçt
 
 ### 📬 İletişim & Bağlantılar
 * **Discord:** `iyitanirlarr`
-* **Project Discord Server:** `discord.gg/lexonproject`
 * **GitHub:** `github.com/LeadersCordi`
 * **E-posta:** `cordimt@gmail.com`
 
